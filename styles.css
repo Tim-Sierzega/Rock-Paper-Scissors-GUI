@@ -1,0 +1,40 @@
+
+body{
+    background-color: #2f2f2f;
+    color: white;
+    text-align: center;
+}
+.game-container {
+    max-width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 2% auto;
+}
+
+.container {
+    width: 32%;
+    text-align: center;
+}
+
+.selectors {
+    text-align: center;
+    margin-top: 14%;
+    max-width: 80%;
+    width: 42%;
+}
+
+.results-container {
+    max-width: 80%;
+    margin: 0 auto;
+    border-color: #525864;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    
+}
+.score-container {
+    max-width: 50%;
+    display: flex;
+    justify-content: space-between;
+}
